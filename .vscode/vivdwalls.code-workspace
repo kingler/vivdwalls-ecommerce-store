@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../vividwalls-ecommerce-admin"
+		},
+		{
+			"path": "../../vivdwalls-ecommerce-store01"
+		},
+		{
+			"path": "../../vividwalls_01"
+		}
+	],
+	"settings": {
+		"jira-plugin.workingProject": "",
+		"WillLuke.nextjs.addTypesOnSave": true,
+		"WillLuke.nextjs.hasPrompted": true
+	}
+}
